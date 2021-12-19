@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I am frankcbliu!👋
+### Hi, I am frankcbliu!👋 Welcome to my blog: [菜饼同学的博客](https://szufrank.top)
 
 <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=frankcbliu&count_private=true&show_icons=true"/>
 
